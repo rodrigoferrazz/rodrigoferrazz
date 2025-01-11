@@ -2,6 +2,8 @@
 
 📚 Atualmente estou cursando ADM Tech na [Inteli](https://www.inteli.edu.br/)
 
+🤝 Meu [buddy](https://github.com/paulo-evangelista)
+
 🔗 Minhas redes sociais
 <div align="left">
   <a href="https://www.linkedin.com/in/rodrigo-ferraz-b8a946244/" target="_blank">
