@@ -1,6 +1,6 @@
 👨🏻‍💻 Me chamo Rodrigo Ferraz e tenho 19 anos
 
-📚 Atualmente estou cursando ADM Tech na Inteli
+📚 Atualmente estou cursando ADM Tech na [Inteli] (https://www.inteli.edu.br/)
 
 🔗 Minhas redes sociais
 <div align="left">
